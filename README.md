@@ -1,5 +1,5 @@
 # 💫 About Me:
-Driven by a passion for software development and technological innovation, I’m eager to apply problem-solving skills and a dedication to continuous learning in the dynamic world of tech. Excited to collaborate and make a meaningful impact in software development initiatives
+Driven by a passion for software development, human robotic interaction and technological innovation, I’m eager to apply problem-solving skills and a dedication to continuous learning in the dynamic world of tech. Excited to collaborate and make a meaningful impact in software development initiatives
 
 
 ## 🌐 Socials:
